@@ -12,7 +12,7 @@ Building performant, scalable, and user-focused web applications with modern Jav
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/evie-adenoyin">
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
 </a>
 
@@ -20,11 +20,11 @@ Building performant, scalable, and user-focused web applications with modern Jav
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ekong-emmanuel-6bbb5619b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ekonge903@gmail.com">
 <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail">
 </a>
 
@@ -36,7 +36,7 @@ Building performant, scalable, and user-focused web applications with modern Jav
 
 # 👨‍💻 About Me
 
-I'm a Frontend Developer with experience building web applications that are fast, scalable, and intuitive to use.
+I'm a Software engineer with experience building web applications that are fast, scalable, and intuitive to use.
 
 My passion lies in transforming ideas into polished products while writing clean, maintainable code. I enjoy working across the frontend and backend, collaborating with teams, and continuously improving my engineering skills through real-world projects and open source.
 
@@ -55,48 +55,30 @@ I'm currently focused on:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vuejs"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,claude,chatgpt"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
-
-## 🏆 Turfing — Sports Competition Management Platform
-
-A modern platform that helps organizers create leagues and tournaments, manage registrations, fixtures, standings, teams, and payments in one place.
-
-**Highlights**
-
-- League & tournament management
-- Team registration workflow
-- Dynamic standings
-- Responsive dashboard
-- Modern UI
-
-**Tech**
-
-React • TypeScript • Tailwind CSS
-
----
 
 ## 🛍 Hallmarts
 
@@ -118,7 +100,7 @@ Next.js • Node.js • MongoDB
 
 ## 🏠 SpaceDezyn
 
-A modern website for an interior design company focused on showcasing projects and generating qualified leads.
+A modern web app (Dashboard) for an interior design company focused on projects management, staff management and generating qualified leads.
 
 **Highlights**
 
@@ -149,6 +131,7 @@ Corporate website built with performance, accessibility, and conversion optimiza
 # 🌱 What I'm Currently Learning
 
 - Advanced TypeScript
+- C#
 - Design Patterns
 - System Design
 - Software Architecture
@@ -163,6 +146,8 @@ Corporate website built with performance, accessibility, and conversion optimiza
 I'm actively contributing to the JavaScript ecosystem and looking for opportunities to contribute to projects involving:
 
 - React
+- Python
+- C#
 - Next.js
 - TypeScript
 - Node.js
@@ -179,7 +164,7 @@ My goal is to become a consistent open-source contributor by solving real proble
 - Become a regular contributor to React ecosystem projects
 - Build products used by thousands of users
 - Deepen my knowledge of software architecture
-- Secure an international frontend engineering role
+- Secure an international frontend or backend engineering role to build my confidence
 
 ---
 
@@ -187,9 +172,9 @@ My goal is to become a consistent open-source contributor by solving real proble
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=evie-adenoyin&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evie-adenoyin&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -199,7 +184,7 @@ My goal is to become a consistent open-source contributor by solving real proble
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=evie-adenoyin&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -209,7 +194,7 @@ My goal is to become a consistent open-source contributor by solving real proble
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evie-adenoyin&theme=github-dark"/>
 
 </p>
 
@@ -219,7 +204,7 @@ My goal is to become a consistent open-source contributor by solving real proble
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=evie-adenoyin&theme=algolia&no-frame=true&margin-w=15&row=1"/>
 
 </p>
 
@@ -243,15 +228,15 @@ Coming soon...
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ekong-emmanuel-6bbb5619b/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ekonge903@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://YOUR_PORTFOLIO](https://ekong-emmanuel.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
