@@ -13,11 +13,11 @@ Building performant, scalable, and user-focused web applications with modern Jav
 <p>
 
 <a href="https://github.com/evie-adenoyin">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/evie-adenoyin?label=Followers&style=for-the-badge">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge">
+<a href="https://github.com/evie-adenoyin">
+<img src="https://img.shields.io/github/stars/evie-adenoyin?affiliations=OWNER&style=for-the-badge">
 </a>
 
 <a href="https://www.linkedin.com/in/ekong-emmanuel-6bbb5619b/">
@@ -100,7 +100,7 @@ Next.js • Node.js • MongoDB
 
 ## 🏠 SpaceDezyn
 
-A modern web app (Dashboard) for an interior design company focused on projects management, staff management and generating qualified leads.
+A modern web app (Analytic Dashboard) for an interior design company focused on projects management, staff management and generating qualified leads.
 
 **Highlights**
 
