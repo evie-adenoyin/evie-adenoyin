@@ -55,7 +55,7 @@ I'm currently focused on:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,c#"/>
 </p>
 
 ### Frontend
