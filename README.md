@@ -236,7 +236,7 @@ Coming soon...
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO](https://ekong-emmanuel.vercel.app/">
+<a href="https://ekong-emmanuel.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
